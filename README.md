@@ -1,0 +1,2 @@
+# creat_namefile_from_number_to
+可以生成一个按照从number1到number2之间所有域名的文件
